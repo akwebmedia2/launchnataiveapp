@@ -1,0 +1,23 @@
+{
+  "name": "launchnativeapp",
+  "version": "1.0.0",
+  "description": "launch native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akwebmedia2/launchnataiveapp.git"
+  },
+  "keywords": [
+    "native",
+    "app"
+  ],
+  "author": "Abdulla khan <akwebmedia@gmail.com> (http://akwebmedia.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akwebmedia2/launchnataiveapp/issues"
+  },
+  "homepage": "https://github.com/akwebmedia2/launchnataiveapp"
+}
